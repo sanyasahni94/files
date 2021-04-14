@@ -1,2 +1,4 @@
 
 Failed to download https://www.dropbox.com/s/dgy9c10wykk4lq4/model_final.pth?dl=1
+
+https://colab.research.google.com/drive/16OvhLYyAYqm16ZVw11dUs_DIB6wzsTZw
